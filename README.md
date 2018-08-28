@@ -5,4 +5,5 @@
 
 
 ![image](https://github.com/yb801925/lotteryTest/blob/master/1535445291706.gif)
+/n/t
 测试gif图
