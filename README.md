@@ -4,4 +4,5 @@
 
 
 
-![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+![image](https://github.com/yb801925/lotteryTest/blob/master/1535445291706.gif)
+测试gif图
