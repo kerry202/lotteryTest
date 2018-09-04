@@ -5,9 +5,7 @@ Fixflow是一款开源的基于BPMN2.0标准的工作流引擎,引擎底层直�
 同时提供了强大的中国式流程流转处理,引擎采用微内核+插件形式设计,提供灵活的扩展模式, 建模采 用基于BPMN2.0标准的Eclipse设计器和基于Web的流程设计器,不仅仅为审批流程提供了解决方案, 同时还为复杂业务流程编排提供了强大的支
 
 
-# 教学视频
-[系列教学视频](http://www.youku.com/playlist_show/id_20321320.html)
-![系统截图](https://github.com/fixteam/fixflow/wiki/images/Snip20131010_2.png)
+##  教学视频
 
 
 # 如何选择？
